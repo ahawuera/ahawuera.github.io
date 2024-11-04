@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ahawuera.github.io/AYI/sitemap_index.txt
+Sitemap: https://ahawuera.github.io/NFg/sitemap_index.txt
+Sitemap: https://ahawuera.github.io/bsp/sitemap_index.txt
+Sitemap: https://ahawuera.github.io/wrD/sitemap_index.txt
